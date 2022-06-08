@@ -6,4 +6,4 @@ The Agda standard library defines arithmetic for `ℕ` in `Data.Nat`, particular
 The puzzle to be addressed in this project is elegant specification and correct calculation of these same operations on bit vectors.
 The specifications should be homomorphic, centered on a denotation `⟦_⟧ : Vec Bool n → ℕ`.
 
-I've enabled the GitHub [discussions](https://github.com/conal/denotational-arithmetic/discussions) feature for this repo.
+Please read and contribute to the project [discussions](https://github.com/conal/denotational-arithmetic/discussions).
